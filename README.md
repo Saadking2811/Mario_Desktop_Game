@@ -1,4 +1,4 @@
-### FXGL_Mario Game
+### JAVA_Mario Game
 **This project is only used for learning JavaFX and fxgl technology;**<br/>
 **Pictures, sounds and other materials should not be used for other purposes;** <br/>
 >Pictures, sounds, etc. download from the Internet. If it infringes, please contact me to delete it;
